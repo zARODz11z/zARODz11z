@@ -30,36 +30,9 @@
 [<img align="left" alt="Bootstrap" width="55px" height="55px" src="https://www.andrewthedev.com/wp-content/uploads/2020/08/bootstrap.png" />][portfolio]
 [<img align="left" alt="Unity" width="55px" height="55px" src="https://www.andrewthedev.com/wp-content/uploads/2020/08/unityLogo.png" />][portfolio]
 [<img align="left" alt="Blender" width="55px" height="55px" src="https://www.andrewthedev.com/wp-content/uploads/2020/08/blender.png" />][portfolio]
-
-
 <br />
 <br />
 
----
-
-<!-- ### 📺 Latest YouTube Videos
-<!-- YOUTUBE:START -->
-<!-- - [GSAP Typing Animation | Tween & Timeline Basics (2020)](https://www.youtube.com/watch?v=ZT66N5hBiCE)
-- [Next Level GitHub Profile README (NEW) | How To Create An Amazing Profile ReadMe With GitHub Actions](https://www.youtube.com/watch?v=ECuqb5Tv9qI)
-- [There's more to CONSOLE than .log( ) | Things you didn't know console could do!!](https://www.youtube.com/watch?v=_-bHhEGcDiQ)
-- [Simple React.js User Login Authentication | Auth0](https://www.youtube.com/watch?v=MqczHS3Z2bc)
-- [Top 10 VS Code Updates You Don't Know About!! (July 2020)](https://www.youtube.com/watch?v=WHBQ1szkhtI) -->
-<!-- YOUTUBE:END -->
-
----
----
-<!-- ### 📕 Latest Blog Posts -->
-<!-- BLOG-POST-LIST:START -->
-<!-- - [Microinteractions: Password Validation Animation](https://dev.to/codestackr/microinteractions-password-validation-animation-5629)
-- [Notion + YouTube - A Powerful Combination for Productivity](https://dev.to/codestackr/notion-youtube-a-powerful-combination-for-productivity-1def)
-- [Regular Expressions (RegEx) Crash Course](https://dev.to/codestackr/regular-expressions-regex-crash-course-248n)
-- [Emmet Part 2 - Advanced](https://dev.to/codestackr/emmet-part-2-advanced-4c65)
-- [Deno 1.0 Released! (Easy) REST API Example](https://dev.to/codestackr/deno-1-0-released-easy-rest-api-example-2fbl) -->
-
-<!-- BLOG-POST-LIST:END -->
-
-
-<img align="left" alt="zARODz11's Github Stats" src="https://github-readme-stats.zARODz11z.vercel.app/api?username=codeSTACKr&show_icons=true&hide_border=true" />
 
 [website]: https://www.andrewthedev.com/
 [youtube]: https://www.youtube.com/channel/UCy87_5IfgIfY6JLVp8WEFKg/featured?view_as=subscriber
