@@ -3,7 +3,7 @@
 ## 🚀Aspiring Software Engineer | Seeking Entry-Level Programming Internship 👨‍💻
 - 🔭 I’m currently working on a [Algorithm Visualizer][website], [SI Board Game][website], [Patrick's Yum Run][website]!
 - 🌱 I’m currently learning Python for technical interviews, Django for front end development and MySQL for backend development.
-- 🥅 2020 Goals: Contribute Computer Science educational videos on YouTube and to gain a Entry-Level Programming Internship
+- 🥅 2020 Goals: Contribute Computer Science educational videos on YouTube and to land a Entry-Level Programming Internship
 - ⚡ Fun fact: I love to work out/get active in any way.
 
 ### Connect with me:
