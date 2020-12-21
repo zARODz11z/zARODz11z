@@ -16,22 +16,6 @@
 <br />
 <br />
 
-### Languages and Tools:
-
-[<img align="left" alt="Python" width="35px" height="35px" src="https://www.andrewthedev.com/wp-content/uploads/2020/08/python.png" />][portfolio]
-[<img align="left" alt="C#" width="35px" height="35px" src="https://www.andrewthedev.com/wp-content/uploads/2020/08/c.png" />][portfolio]
-[<img align="left" alt="PHP" width="40px" height="35px" src="https://www.andrewthedev.com/wp-content/uploads/2020/08/phpElephant-e1596527890792.png" />][portfolio]
-[<img align="left" alt="HTML5" width="35px" height="35px" src="https://www.andrewthedev.com/wp-content/uploads/2020/08/HTML5_Logo_256.png" />][portfolio]
-[<img align="left" alt="CSS" width="22px" height="35px" src="https://www.andrewthedev.com/wp-content/uploads/2020/08/css.png" />][portfolio]
-[<img align="left" alt="Git" width="35px" height="35px" src="https://avatars3.githubusercontent.com/u/18133?s=200&v=4" />][portfolio]
-[<img align="left" alt="Google Cloud" width="35px" height="35px" src="https://www.andrewthedev.com/wp-content/uploads/2020/08/Google-Cloud-Logo-e1596528784483.png" />][portfolio]
-[<img align="left" alt="Django" width="35px" height="35px" src="https://www.andrewthedev.com/wp-content/uploads/2020/08/4aGjtNQv.png" />][portfolio]
-[<img align="left" alt="MySQL" width="35px" height="35px" src="https://www.andrewthedev.com/wp-content/uploads/2020/08/Mysql.png" />][portfolio]
-[<img align="left" alt="Bootstrap" width="35px" height="35px" src="https://www.andrewthedev.com/wp-content/uploads/2020/08/bootstrap.png" />][portfolio]
-[<img align="left" alt="Unity" width="35px" height="35px" src="https://www.andrewthedev.com/wp-content/uploads/2020/08/unityLogo.png" />][portfolio]
-[<img align="left" alt="Blender" width="35px" height="35px" src="https://www.andrewthedev.com/wp-content/uploads/2020/08/blender.png" />][portfolio]
-<br />
-<br />
 
 
 [website]: https://www.andrewthedev.com/
